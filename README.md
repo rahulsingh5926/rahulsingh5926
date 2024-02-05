@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fitness and Nutrition Website**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulsingh5926](https://github.com/rahulsingh5926)
 
